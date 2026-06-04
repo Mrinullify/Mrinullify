@@ -1,12 +1,64 @@
-# 💫 About Me:
-<br>🚀 I started out mastering the MERN stack, working on frontend and backend development to create dynamic web applications. But now, I’ve moved on to Data Science, diving deep into areas like Excel, SQL Server, and Power BI.<br><br>🌱 Right now, I’m focused on learning more about data analysis and visualization, and I’m excited to keep building my skills in this space.<br><br>👯 I’m always open to collaborating on projects where I can use what I’ve learned so far, especially when it comes to analyzing data and presenting it in clear, meaningful ways.<br><br>🤔 I’d love to get better at advanced database management and optimization, so any advice or help in those areas would be awesome.<br><br>💬 Feel free to ask me about anything related to data analysis, visualization, or my earlier experiences with the MERN stack!.<br><br>📫 You can reach me via email at damrinal1967@gmail.com or connect with me on LinkedIn [Mrinal Singh](https://www.linkedin.com/in/mrinal-singh-62b17a2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).<br><br>😄 
+# 💫 About Me
+
+🚀 Full Stack Developer passionate about building scalable web applications and AI-powered products.
+
+💻 I started my journey with the MERN stack and have built projects involving authentication, REST APIs, databases, cloud storage, and responsive user interfaces.
+
+🌱 Currently focused on mastering modern full-stack development with Next.js, TypeScript, PostgreSQL, Prisma, Auth.js, Redis, and real-time applications while exploring Generative AI and production-ready AI integrations.
+
+🎯 My goal is to become a software engineer capable of designing, building, and deploying complete products from frontend to backend.
+
+### Current Focus
+
+* Full Stack Development
+* Next.js & TypeScript
+* Backend Engineering
+* Database Design
+* System Design Fundamentals
+* Generative AI Applications
+
+### What I'm Building
+
+* Production-ready Full Stack Applications
+* AI-Powered Web Applications
+* Real-Time Systems
+* Portfolio & Open Source Projects
+
+📫 Reach me at: **[damrinal1967@gmail.com](mailto:damrinal1967@gmail.com)**
+
+⚡ I learn best by building projects and solving real-world problems.
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dripmon_chan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-62b17a2ba) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mrinullify&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrinullify&theme=dracula&hide_border=false)<br/>
